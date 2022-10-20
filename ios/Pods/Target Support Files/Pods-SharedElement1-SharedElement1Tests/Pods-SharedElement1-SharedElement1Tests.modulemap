@@ -1,0 +1,6 @@
+module Pods_SharedElement1_SharedElement1Tests {
+  umbrella header "Pods-SharedElement1-SharedElement1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
